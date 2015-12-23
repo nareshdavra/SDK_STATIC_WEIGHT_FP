@@ -83,15 +83,6 @@ namespace RFIDLib
                 {
                     listOfDevice = new string[arrayOfPluggedDevice.Length];
                     
-                    //if (IsFPdevice == true)
-                    //{
-                    //    listOfFPDevice = new string[fpDevArray.Length];
-                    //    for (int i = 0; i < fpDevArray.Length; i++)
-                    //    {
-                    //        if (!listOfFPDevice.Contains(fpDevArray[i].ToString()))
-                    //        { listOfFPDevice[i] = fpDevArray[i].ToString(); }
-                    //    }
-                    //}
                     
                     for (int i = 0; i < arrayOfPluggedDevice.Length; i++)
                     {
