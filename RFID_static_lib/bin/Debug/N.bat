@@ -1,0 +1,1 @@
+ILMerge.exe RFID_static_lib.dll DataClass.dll ErrorMessage.dll SDK_SC_AccessControl.dll SDK_SC_Fingerprint.dll SDK_SC_RFID_Devices.dll SDK_SC_RfidReader.dll  /out:RFIDAll.dll /t:library /internalize

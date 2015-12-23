@@ -1,0 +1,2 @@
+
+3:14:47 PM:Expection Message:Object reference not set to an instance of an object.stack trace:   at RFIDLib.RFID.ConnectDevice(String serial) in C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\RFID_static_lib\RFID.cs:line 143

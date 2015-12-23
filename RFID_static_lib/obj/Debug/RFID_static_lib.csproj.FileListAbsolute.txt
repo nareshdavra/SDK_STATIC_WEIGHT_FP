@@ -1,0 +1,39 @@
+E:\Spacecode Demo DNK\DiaSalesForSpaceCode\RFID Lib\RFID_static_lib\bin\Debug\RFID_static_lib.dll
+E:\Spacecode Demo DNK\DiaSalesForSpaceCode\RFID Lib\RFID_static_lib\bin\Debug\RFID_static_lib.pdb
+E:\Spacecode Demo DNK\DiaSalesForSpaceCode\RFID Lib\RFID_static_lib\obj\Debug\RFID_static_lib.dll
+E:\Spacecode Demo DNK\DiaSalesForSpaceCode\RFID Lib\RFID_static_lib\obj\Debug\RFID_static_lib.pdb
+E:\Spacecode Demo DNK\DiaSalesForSpaceCode\RFID Lib\RFID_static_lib\obj\Debug\RFID_static_lib.csprojResolveAssemblyReference.cache
+E:\RFID_Sample_static\RFID_Sample\RFID_static_lib\bin\Debug\RFID_static_lib.dll
+E:\RFID_Sample_static\RFID_Sample\RFID_static_lib\bin\Debug\RFID_static_lib.pdb
+E:\RFID_Sample_static\RFID_Sample\RFID_static_lib\bin\Debug\SDK_SC_MedicalCabinet.dll
+E:\RFID_Sample_static\RFID_Sample\RFID_static_lib\obj\Debug\RFID_static_lib.csprojResolveAssemblyReference.cache
+E:\RFID_Sample_static\RFID_Sample\RFID_static_lib\obj\Debug\RFID_static_lib.dll
+E:\RFID_Sample_static\RFID_Sample\RFID_static_lib\obj\Debug\RFID_static_lib.pdb
+D:\RFID_Sample_Dev\RFID_static_lib\bin\Debug\RFID_static_lib.dll
+D:\RFID_Sample_Dev\RFID_static_lib\bin\Debug\RFID_static_lib.pdb
+D:\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.csprojResolveAssemblyReference.cache
+D:\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.dll
+D:\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.pdb
+E:\RFID_Sample_static\RFID_Sample_Dev\RFID_static_lib\bin\Debug\RFID_static_lib.dll
+E:\RFID_Sample_static\RFID_Sample_Dev\RFID_static_lib\bin\Debug\RFID_static_lib.pdb
+E:\RFID_Sample_static\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.dll
+E:\RFID_Sample_static\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.pdb
+E:\temp\RFID_Sample_Dev\RFID_static_lib\bin\Debug\RFID_static_lib.dll
+E:\temp\RFID_Sample_Dev\RFID_static_lib\bin\Debug\RFID_static_lib.pdb
+E:\temp\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.dll
+E:\temp\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.pdb
+E:\temp\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.csprojResolveAssemblyReference.cache
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\RFID_static_lib\bin\Debug\RFID_static_lib.dll
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\RFID_static_lib\bin\Debug\RFID_static_lib.pdb
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.dll
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.pdb
+C:\Users\MY\Desktop\RFID_Sample_Dev\RFID_static_lib\bin\Debug\RFID_static_lib.dll
+C:\Users\MY\Desktop\RFID_Sample_Dev\RFID_static_lib\bin\Debug\RFID_static_lib.pdb
+C:\Users\MY\Desktop\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.csprojResolveAssemblyReference.cache
+C:\Users\MY\Desktop\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.dll
+C:\Users\MY\Desktop\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.pdb
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\RFID_static_lib\bin\Debug\RFID_static_lib.dll
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\RFID_static_lib\bin\Debug\RFID_static_lib.pdb
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.csprojResolveAssemblyReference.cache
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.dll
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.pdb

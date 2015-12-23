@@ -1,0 +1,96 @@
+E:\testPro\testPro\obj\x86\Debug\RFID_Sample.csprojResolveAssemblyReference.cache
+E:\testPro\testPro\obj\x86\Debug\testPro.Form1.resources
+E:\testPro\testPro\obj\x86\Debug\testPro.Form2.resources
+E:\testPro\testPro\obj\x86\Debug\testPro.Properties.Resources.resources
+E:\testPro\testPro\obj\x86\Debug\RFID_Sample.csproj.GenerateResource.Cache
+E:\testPro\testPro\bin\Debug\RFID_sample.exe.manifest
+E:\testPro\testPro\bin\Debug\RFID_sample.exe
+E:\testPro\testPro\bin\Debug\RFID_sample.pdb
+E:\testPro\testPro\obj\x86\Debug\RFID_sample.exe.manifest
+E:\testPro\testPro\obj\x86\Debug\RFID_sample.exe
+E:\testPro\testPro\obj\x86\Debug\RFID_sample.pdb
+E:\RFID_Sample_static\RFID_Sample\obj\x86\Debug\RFID_sample.exe
+E:\RFID_Sample_static\RFID_Sample\obj\x86\Debug\RFID_sample.pdb
+E:\RFID_Sample_static\RFID_Sample\bin\Debug\RFID_sample.exe
+E:\RFID_Sample_static\RFID_Sample\bin\Debug\RFID_sample.pdb
+E:\RFID_Sample_static\RFID_Sample\obj\x86\Debug\testPro.Form1.resources
+E:\RFID_Sample_static\RFID_Sample\obj\x86\Debug\testPro.Form2.resources
+E:\RFID_Sample_static\RFID_Sample\obj\x86\Debug\testPro.Properties.Resources.resources
+E:\RFID_Sample_static\RFID_Sample\obj\x86\Debug\RFID_Sample.csproj.GenerateResource.Cache
+E:\RFID_Sample_static\RFID_Sample\obj\x86\Debug\RFID_Sample.csprojResolveAssemblyReference.cache
+E:\RFID_Sample_static\RFID_Sample\bin\Debug\RFID_static_lib.dll
+E:\RFID_Sample_static\RFID_Sample\bin\Debug\RFID_static_lib.pdb
+E:\RFID_Sample_static\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.exe
+E:\RFID_Sample_static\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.pdb
+E:\RFID_Sample_static\RFID_Sample_Dev\bin\Debug\RFID_sample.exe
+E:\RFID_Sample_static\RFID_Sample_Dev\bin\Debug\RFID_sample.pdb
+E:\RFID_Sample_static\RFID_Sample_Dev\bin\Debug\RFID_static_lib.dll
+E:\RFID_Sample_static\RFID_Sample_Dev\bin\Debug\RFID_static_lib.pdb
+E:\RFID_Sample_static\RFID_Sample_Dev\obj\x86\Debug\RFID_Sample.csprojResolveAssemblyReference.cache
+E:\RFID_Sample_static\RFID_Sample_Dev\obj\x86\Debug\testPro.Properties.Resources.resources
+E:\RFID_Sample_static\RFID_Sample_Dev\obj\x86\Debug\RFID_Sample.csproj.GenerateResource.Cache
+D:\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.exe
+D:\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.pdb
+D:\RFID_Sample_Dev\bin\Debug\RFID_sample.exe
+D:\RFID_Sample_Dev\bin\Debug\RFID_sample.pdb
+D:\RFID_Sample_Dev\bin\Debug\RFID_static_lib.dll
+D:\RFID_Sample_Dev\bin\Debug\RFID_static_lib.pdb
+D:\RFID_Sample_Dev\obj\x86\Debug\RFID_Sample.csprojResolveAssemblyReference.cache
+D:\RFID_Sample_Dev\obj\x86\Debug\testPro.Form1.resources
+D:\RFID_Sample_Dev\obj\x86\Debug\testPro.Form2.resources
+D:\RFID_Sample_Dev\obj\x86\Debug\testPro.Properties.Resources.resources
+D:\RFID_Sample_Dev\obj\x86\Debug\RFID_Sample.csproj.GenerateResource.Cache
+E:\temp\RFID_Sample_Dev\bin\Debug\RFID_sample.exe
+E:\temp\RFID_Sample_Dev\bin\Debug\RFID_sample.pdb
+E:\temp\RFID_Sample_Dev\bin\Debug\RFID_static_lib.dll
+E:\temp\RFID_Sample_Dev\bin\Debug\RFID_static_lib.pdb
+E:\temp\RFID_Sample_Dev\obj\x86\Debug\RFID_Sample.csprojResolveAssemblyReference.cache
+E:\temp\RFID_Sample_Dev\obj\x86\Debug\testPro.Properties.Resources.resources
+E:\temp\RFID_Sample_Dev\obj\x86\Debug\testPro.ScanForm.resources
+E:\temp\RFID_Sample_Dev\obj\x86\Debug\testPro.ScanForm2.resources
+E:\temp\RFID_Sample_Dev\obj\x86\Debug\RFID_Sample.csproj.GenerateResource.Cache
+E:\temp\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.exe
+E:\temp\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.pdb
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.exe
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.pdb
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\bin\Debug\RFID_sample.exe
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\bin\Debug\RFID_sample.pdb
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\bin\Debug\RFID_static_lib.dll
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\bin\Debug\RFID_static_lib.pdb
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\obj\x86\Debug\RFID_Sample.csprojResolveAssemblyReference.cache
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\obj\x86\Debug\testPro.Properties.Resources.resources
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\obj\x86\Debug\testPro.ScanForm.resources
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\obj\x86\Debug\testPro.ScanForm2.resources
+E:\RFID_Sample_static\New Sample\RFID_Sample_Dev\obj\x86\Debug\RFID_Sample.csproj.GenerateResource.Cache
+E:\RFID_Sample_static\RFID_Sample_Dev\obj\x86\Debug\testPro.ScanForm.resources
+E:\RFID_Sample_static\RFID_Sample_Dev\obj\x86\Debug\testPro.ScanForm2.resources
+E:\DropBOX\Dropbox\RFID_Sample_static\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.exe
+E:\DropBOX\Dropbox\RFID_Sample_static\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.pdb
+C:\Users\MY\Dropbox\RFID_Sample_static\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.exe
+C:\Users\MY\Dropbox\RFID_Sample_static\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.pdb
+C:\Users\MY\Desktop\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.exe
+C:\Users\MY\Desktop\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.pdb
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.exe
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\obj\x86\Debug\RFID_sample.pdb
+C:\Users\MY\Desktop\RFID_Sample_Dev\bin\Debug\RFID_sample.exe
+C:\Users\MY\Desktop\RFID_Sample_Dev\bin\Debug\RFID_sample.pdb
+C:\Users\MY\Desktop\RFID_Sample_Dev\bin\Debug\RFID_static_lib.dll
+C:\Users\MY\Desktop\RFID_Sample_Dev\bin\Debug\RFID_static_lib.pdb
+C:\Users\MY\Desktop\RFID_Sample_Dev\obj\x86\Debug\RFID_Sample.csprojResolveAssemblyReference.cache
+C:\Users\MY\Desktop\RFID_Sample_Dev\obj\x86\Debug\testPro.Properties.Resources.resources
+C:\Users\MY\Desktop\RFID_Sample_Dev\obj\x86\Debug\testPro.ScanForm.resources
+C:\Users\MY\Desktop\RFID_Sample_Dev\obj\x86\Debug\testPro.ScanForm2.resources
+C:\Users\MY\Desktop\RFID_Sample_Dev\obj\x86\Debug\RFID_Sample.csproj.GenerateResource.Cache
+C:\Users\MY\Desktop\RFID_Sample_Dev\bin\Debug\System.Data.SQLite.dll
+C:\Users\MY\Desktop\RFID_Sample_Dev\bin\Debug\SDK_SC_MedicalCabinet.dll
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\bin\Debug\RFID_sample.exe
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\bin\Debug\RFID_sample.pdb
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\bin\Debug\RFID_static_lib.dll
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\bin\Debug\SDK_SC_MedicalCabinet.dll
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\bin\Debug\RFID_static_lib.pdb
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\obj\x86\Debug\RFID_Sample.csprojResolveAssemblyReference.cache
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\obj\x86\Debug\testPro.Properties.Resources.resources
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\obj\x86\Debug\testPro.ScanForm.resources
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\obj\x86\Debug\testPro.ScanForm2.resources
+C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\obj\x86\Debug\RFID_Sample.csproj.GenerateResource.Cache
