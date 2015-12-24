@@ -22,7 +22,7 @@ namespace RFIDLib
         private static string[] fpDevArray = null;
         private static int selectedDevice = -1;
         private static int selectedFP = 0;
-        //private static string[] listOfFPDevice;
+        
         private static ArrayList templateToLoad = new ArrayList();
 
         private static RFID_Device device = null;

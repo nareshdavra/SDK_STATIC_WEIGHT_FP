@@ -96,6 +96,7 @@ C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\obj
 C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\obj\x86\Debug\RFID_Sample.csproj.GenerateResource.Cache
 D:\E\SDK_STATIC_WEIGHT_FP\obj\x86\Debug\RFID_sample.exe
 D:\E\SDK_STATIC_WEIGHT_FP\obj\x86\Debug\RFID_sample.pdb
+<<<<<<< Updated upstream
 D:\E\SDK_STATIC_WEIGHT_FP\bin\Debug\RFID_sample.exe
 D:\E\SDK_STATIC_WEIGHT_FP\bin\Debug\RFID_sample.pdb
 D:\E\SDK_STATIC_WEIGHT_FP\bin\Debug\RFID_static_lib.dll
@@ -107,3 +108,5 @@ D:\E\SDK_STATIC_WEIGHT_FP\obj\x86\Debug\testPro.Properties.Resources.resources
 D:\E\SDK_STATIC_WEIGHT_FP\obj\x86\Debug\testPro.ScanForm.resources
 D:\E\SDK_STATIC_WEIGHT_FP\obj\x86\Debug\testPro.ScanForm2.resources
 D:\E\SDK_STATIC_WEIGHT_FP\obj\x86\Debug\RFID_Sample.csproj.GenerateResource.Cache
+=======
+>>>>>>> Stashed changes
