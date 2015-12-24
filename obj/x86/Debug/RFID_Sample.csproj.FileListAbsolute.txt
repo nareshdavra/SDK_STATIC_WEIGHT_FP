@@ -1,0 +1,13 @@
+D:\E\SDK_STATIC_WEIGHT_FP\bin\Debug\RFID_sample.exe
+D:\E\SDK_STATIC_WEIGHT_FP\bin\Debug\RFID_sample.pdb
+D:\E\SDK_STATIC_WEIGHT_FP\bin\Debug\RFID_static_lib.dll
+D:\E\SDK_STATIC_WEIGHT_FP\bin\Debug\System.Data.SQLite.dll
+D:\E\SDK_STATIC_WEIGHT_FP\bin\Debug\SDK_SC_MedicalCabinet.dll
+D:\E\SDK_STATIC_WEIGHT_FP\bin\Debug\RFID_static_lib.pdb
+D:\E\SDK_STATIC_WEIGHT_FP\obj\x86\Debug\RFID_Sample.csprojResolveAssemblyReference.cache
+D:\E\SDK_STATIC_WEIGHT_FP\obj\x86\Debug\testPro.Properties.Resources.resources
+D:\E\SDK_STATIC_WEIGHT_FP\obj\x86\Debug\testPro.ScanForm.resources
+D:\E\SDK_STATIC_WEIGHT_FP\obj\x86\Debug\testPro.ScanForm2.resources
+D:\E\SDK_STATIC_WEIGHT_FP\obj\x86\Debug\RFID_Sample.csproj.GenerateResource.Cache
+D:\E\SDK_STATIC_WEIGHT_FP\obj\x86\Debug\RFID_sample.exe
+D:\E\SDK_STATIC_WEIGHT_FP\obj\x86\Debug\RFID_sample.pdb
