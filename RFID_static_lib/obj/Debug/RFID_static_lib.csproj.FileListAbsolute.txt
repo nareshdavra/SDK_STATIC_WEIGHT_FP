@@ -39,6 +39,5 @@ C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\RFI
 C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\RFID_static_lib\obj\Debug\RFID_static_lib.pdb
 D:\E\SDK_STATIC_WEIGHT_FP\RFID_static_lib\bin\Debug\RFID_static_lib.dll
 D:\E\SDK_STATIC_WEIGHT_FP\RFID_static_lib\bin\Debug\RFID_static_lib.pdb
-D:\E\SDK_STATIC_WEIGHT_FP\RFID_static_lib\obj\Debug\RFID_static_lib.csprojResolveAssemblyReference.cache
 D:\E\SDK_STATIC_WEIGHT_FP\RFID_static_lib\obj\Debug\RFID_static_lib.dll
 D:\E\SDK_STATIC_WEIGHT_FP\RFID_static_lib\obj\Debug\RFID_static_lib.pdb
