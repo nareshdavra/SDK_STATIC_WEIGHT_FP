@@ -28,6 +28,7 @@ namespace RFIDLib
         private static RFID_Device device = null;
         public static bool IsDeviceConnected = false;
         public static bool IsFPdevice = false;
+        public static string returnFPTemplate = "";
 
         public static bool IsInScan = false;
 
@@ -769,6 +770,7 @@ namespace RFIDLib
             string template = device.EnrollUser(null, fname, lname, null);
             templateToLoad.Add(template);
             loadUserTemplate();
+            returnFPTemplate = template;
             return template;
         }
 
@@ -780,6 +782,7 @@ namespace RFIDLib
             templateToLoad.Remove(fpTemplate);
             templateToLoad.Add(template);
             loadUserTemplate();
+            returnFPTemplate = template;
             return template;
         }
     }

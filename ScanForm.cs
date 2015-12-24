@@ -23,6 +23,7 @@ namespace testPro
 
         private void btnScan_Click(object sender, EventArgs e)
         {
+            
             RFID.messageDelegate = msgAdd;
             RFID.errorDelegate = errorAdd;
             RFID.deviceStatusDelegate = DevStAdd;
