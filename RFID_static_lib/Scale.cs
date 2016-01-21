@@ -15,6 +15,7 @@ namespace RFIDLibWeight
 {
     public delegate void WeightScaleDelegate(string info);
 
+
     public enum ScaleType
     {
         SAT,
@@ -24,6 +25,8 @@ namespace RFIDLibWeight
 
     public class Scale
     {
+        private static readonly Regex weightRegex = new Regex(@"[0-9]+(\.)[0-9]+", RegexOptions.Compiled);
+
         public static ScaleType Scaletype = ScaleType.SAT;
         //public static event WeightScaleDelegate NotifyWeightEvent;
         private static AutoResetEvent mWait = new AutoResetEvent(false);
@@ -73,7 +76,7 @@ namespace RFIDLibWeight
             //}
             
             lastScaledWeight.Trim();
-            lastScaledWeight = Regex.Match(lastScaledWeight, @"[0-9]+(\.)[0-9]+").Value;
+            lastScaledWeight = weightRegex.Match(lastScaledWeight).Value;
             lastScaledWeight.Trim();
 
 
