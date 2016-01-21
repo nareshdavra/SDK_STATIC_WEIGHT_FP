@@ -22,8 +22,8 @@ namespace RFIDLib
         private static string[] fpDevArray = null;
         private static int selectedDevice = -1;
         private static int selectedFP = 0;
-        
-        private static ArrayList templateToLoad = new ArrayList();
+        //private static string[] listOfFPDevice;
+        public static ArrayList templateToLoad = new ArrayList();
 
         private static RFID_Device device = null;
         public static bool IsDeviceConnected = false;
@@ -129,7 +129,7 @@ namespace RFIDLib
                 
                 bool result;
 
-                if (IsFPdevice == true && fpDevArray != null)
+                if (IsFPdevice == true && fpDevArray != null && fpDevArray.Length > 0)
                 {
                     RFID.device.NotifyFPEvent += new NotifyHandlerFPDelegate(RFID.rfidDev_NotifyFPEvent);
                     if (RFID.device.Create_1FP_Device(arrayOfPluggedDevice[selectedDevice].SerialRFID, arrayOfPluggedDevice[selectedDevice].portCom, fpDevArray[selectedFP], false))
@@ -766,7 +766,8 @@ namespace RFIDLib
         public static string enrollUserFingerprint(string fname, string lname)
         {
             if (IsFPdevice != true){return ""; }
-           
+            //if (lname == null) { lname = ""; }
+            if (lname == null) { lname = ""; }
             string template = device.EnrollUser(null, fname, lname, null);
             templateToLoad.Add(template);
             loadUserTemplate();

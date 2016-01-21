@@ -1,2 +1,6 @@
 
-3:14:47 PM:Expection Message:Object reference not set to an instance of an object.stack trace:   at RFIDLib.RFID.ConnectDevice(String serial) in C:\Users\admin\AppData\Roaming\Skype\My Skype Received Files\RFID_Sample_Dev\RFID_static_lib\RFID.cs:line 143
+4:12:19 PM:Expection Message:Invoke or BeginInvoke cannot be called on a control until the window handle has been created.stack trace:   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at testPro.ScanForm2.DevStAdd(String a) in G:\SDK_STATIC_WEIGHT_FP\ScanForm2.cs:line 65
+   at RFIDLib.RFID.rfidDev_NotifyRFIDEvent(Object sender, rfidReaderArgs args) in G:\SDK_STATIC_WEIGHT_FP\RFID_static_lib\RFID.cs:line 345
